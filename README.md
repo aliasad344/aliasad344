@@ -21,4 +21,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=orientedasad&show_icons=true&locale=en&layout=compact" alt="orientedasad" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=orientedasad&" alt="aliasad344" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=orientedasad&" alt="orientedasad" /></p>
