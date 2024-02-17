@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **react, node and competitive programming**
 
-- 📫 How to reach me **masadasif451@gmail.com**
+- 📫 How to reach me **imasad53@gmail.com**
 
 - ⚡ Fun fact **Under Construction**
 
