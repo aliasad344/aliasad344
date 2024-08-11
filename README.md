@@ -2,13 +2,14 @@
 <h1 align="center">Hi 👋, there</h1>
 <h3 align="center">A tech person highly interested in Web development and Problem Solving.</h3>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m professional in MERN Stack**
+- '💻 Associate Software Engineer @i2c**
 
 - 💬 Ask me about **react, node and competitive programming**
 
 - 📫 How to reach me **imasad53@gmail.com**
 
-- ⚡ Fun fact **Under Construction**
+- ⚡ Fun fact **Chasing Dreams**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
