@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, there</h1>
 <h3 align="center">A tech person highly interested in Web development and Problem Solving.</h3>
 
-- 🌱 I’m professional in MERN Stack**
-- '💻 Associate Software Engineer @i2c**
+- 🌱 I’m professional in **MERN Stack**
+- '💻 Associate Software Engineer @**i2c**
 
 - 💬 Ask me about **react, node and competitive programming**
 
